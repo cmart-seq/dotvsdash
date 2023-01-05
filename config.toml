@@ -1,0 +1,5 @@
+baseURL = "https://cmart-seq.github.io/dotvsdash.github.io/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'digitalgarden'
+publishDir = "docs"
